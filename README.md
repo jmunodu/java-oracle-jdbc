@@ -22,6 +22,7 @@ To connect java application with the oracle database, we need to follow 5 follow
   autor varchar2(30),
   codigoeditorial number(3)
  );
+ 
  create table editoriales(
   codigo number(3),
   nombre varchar2(20),
