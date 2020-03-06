@@ -9,6 +9,8 @@ To connect java application with the oracle database, we need to follow 5 follow
 **Username**: The default username for the oracle database is system.
 **Password**: It is the password given by the user at the time of installing the oracle database.
 
+## Oracle Config
+
 ```sql
 
 -- Drop Tables
